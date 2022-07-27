@@ -76,37 +76,15 @@
       "modifiedAt": "2020-05-21T15:15:33.944Z"
     },
     {
-      "id": "hRownH6CJ",
-      "uuid": "e64a6e71-c0a9-4646-8bc4-850cd04c589f",
+      "id": "qyanYYLdm",
+      "uuid": "8e2dab98-abdd-44fb-b4a4-4fde9751b553",
       "firstName": "first name",
       "lastName": "last name",
       "username": "username",
-      "password": "$2a$10$QlbdPkBjhBqIjOrGc1v/sO8nQHSdgL2GPAZ.YHk2gBtzzLrrWysKW",
+      "password": "$2a$10$fw5T67ZJelAtVDI1KK94nO9.jPenVSA5VfBc5XPRoYoAFJH1itz9m",
       "balance": 0,
-      "createdAt": "2022-07-26T19:45:47.514Z",
-      "modifiedAt": "2022-07-26T19:45:47.514Z"
-    },
-    {
-      "id": "lnLITAPEY",
-      "uuid": "e2eb6bb7-8eab-44ec-b8b2-24051e99d703",
-      "firstName": "first name",
-      "lastName": "last name",
-      "username": "username",
-      "password": "$2a$10$iF5KXpQX1ea17afUs5OTN.jEcEiBixoXC1016oppx.pGX5kbaPJnK",
-      "balance": 0,
-      "createdAt": "2022-07-26T19:46:53.091Z",
-      "modifiedAt": "2022-07-26T19:46:53.091Z"
-    },
-    {
-      "id": "EUIhOHS5d",
-      "uuid": "f1e8cb00-dde2-46f3-b9fa-64df51d95ed8",
-      "firstName": "first name",
-      "lastName": "last name",
-      "username": "username",
-      "password": "$2a$10$pZUjt7jj6u7YvgHda5hs8eATK9OPTRSAnPT9cY.wrExsGCqD94fLy",
-      "balance": 0,
-      "createdAt": "2022-07-26T19:48:51.278Z",
-      "modifiedAt": "2022-07-26T19:48:51.278Z"
+      "createdAt": "2022-07-27T19:59:49.193Z",
+      "modifiedAt": "2022-07-27T19:59:49.193Z"
     }
   ],
   "contacts": [
