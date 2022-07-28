@@ -74,17 +74,6 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
-    },
-    {
-      "id": "qyanYYLdm",
-      "uuid": "8e2dab98-abdd-44fb-b4a4-4fde9751b553",
-      "firstName": "first name",
-      "lastName": "last name",
-      "username": "username",
-      "password": "$2a$10$fw5T67ZJelAtVDI1KK94nO9.jPenVSA5VfBc5XPRoYoAFJH1itz9m",
-      "balance": 0,
-      "createdAt": "2022-07-27T19:59:49.193Z",
-      "modifiedAt": "2022-07-27T19:59:49.193Z"
     }
   ],
   "contacts": [
